@@ -17,13 +17,17 @@ This repository contains the main blocks of our code.
 
 IEEE Intelligent Vehicles 2023 (IEEE IV 2023)
 
-citation: 
-```
-@article{rahimpour2023fir,
-  title={FIR-based Future Trajectory Prediction in Nighttime Autonomous Driving},
+## citation: 
+```bibtex
+@INPROCEEDINGS{10186756,
   author={Rahimpour, Alireza and Fallahinia, Navid and Upadhyay, Devesh and Miller, Justin},
-  journal={arXiv preprint arXiv:2304.05345},
-  year={2023}
+  booktitle={2023 IEEE Intelligent Vehicles Symposium (IV)}, 
+  title={Deer in the headlights: FIR-based Future Trajectory Prediction in Nighttime Autonomous Driving}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/IV55152.2023.10186756}}
 }
 ```
 =======
