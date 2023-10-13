@@ -1,4 +1,4 @@
-# FIR-based Future Trajectory Prediction in Nighttime Autonomous Driving
+# Future Trajectory Prediction in Nighttime Autonomous Driving
 
 
 <img width="1247" alt="fig1 2" src="https://user-images.githubusercontent.com/124192573/216125928-53b3b0e2-8f77-4750-8265-aac44f2c3abe.png">
